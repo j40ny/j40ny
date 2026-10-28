@@ -1,16 +1,27 @@
-## Hi there 👋
+# Jony · Developer | Automation & AI Integration
 
-<!--
-**j40ny/j40ny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Remote developer from Peru. I build web apps and micro apps, automate repetitive tasks, and connect AI models to real workflows.
 
-Here are some ideas to get you started:
+**Currently:** building my public portfolio. Open to remote junior roles, contracts, and freelance projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+- **Web development:** websites and micro apps
+- **Automation:** turning repetitive manual tasks into automatic workflows
+- **AI integration:** adding AI features to everyday processes with LLM APIs
+
+## Tech stack
+- **Main languages:** Python, JavaScript, TypeScript
+- **Frontend:** React
+- **Backend:** Node.js
+- **Also worked with:** Java, C++
+- **Tools:** Git, GitHub, Cursor, Claude
+
+## Portfolio (in progress)
+I am publishing documented projects here, one at a time.
+
+## Spoken languages
+Spanish (native) · English (working knowledge, improving)
+
+## Contact
+- Email: [llallahuijony@gmail.com](mailto:llallahuijony@gmail.com)
+- LinkedIn: [linkedin.com/in/jony-llallahui-66b741447](https://www.linkedin.com/in/jony-llallahui-66b741447/)
